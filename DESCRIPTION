@@ -1,0 +1,11 @@
+Package: MATH4753LOCHAFALL23
+Type: Package
+Title: Math 4753 function
+Version: 0.1.0
+Author: Loc Ha
+Maintainer: Loc Ha <Loc.T.Ha-1@ou.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
