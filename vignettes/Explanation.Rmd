@@ -1,0 +1,19 @@
+---
+title: "kaka"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{kaka}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(MATH4753LOCHAFALL23)
+```
